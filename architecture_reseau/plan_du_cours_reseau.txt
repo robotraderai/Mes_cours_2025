@@ -5,3 +5,27 @@
 4. Conception de réseaux IP étendus avec BGP
  5. Conception de réseaux LAN commutés
  6. Réseaux modernes : SDN et virtualisation
+
+ Partie 2: (Exposés)
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+ Gestion de réseau commuté 
+Architecture de commutation de paquets
+ Redistribution EIGRP et OSPF
+ Configuration de EIGRP sur des réseaux Novell 
+et AppleTalk
+ Conception, configuration et dépannage de 
+MPOA
+ Routage DDR
+ Evolutivité du routage DDR
+ Conception de réseaux RNIS
+ Emploi efficace de RNIS en milieu 
+multiprotocole
+ 10. Amélioration de la sécurité sur les réseaux IP 
